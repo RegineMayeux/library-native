@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Vingt mille lieues sous les mers",
+        "author": "Jules Verne",
+        "description": "Un monstre marin, une chose énorme, ayant été signalé par plusieurs navires à travers le monde, une expédition est organisée sur l'Abraham Lincoln, frégate américaine, pour purger les mers de ce monstre inquiétant. A bord se trouvent le Français Pierre Aronnax, professeur au Muséum de Paris, et Conseil, son fidèle domestique.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZH5P3QyYHKK6nwWQg8OSfRD0DXaCL7_CsYF6PWqzJC-poAzEtIdE5vGpkVg&usqp=CAc"
+    },
+    {
+        "title": "Le malade imaginaire",
+        "author": "Molière",
+        "description": "Argan se plaît à croire qu'il est gravement malade et cherche à s'entourer de médecins et d'apothicaires... au point de vouloir marier sa fille Angélique à un docteur ! Quant à Béline, la seconde femme d'Argan, elle fait mine de prendre soin de son mari, espérant secrètement sa mort pour hériter de son argent. ",
+        "image": "https://editions.flammarion.com/media/cache/couverture_large/flammarion_img/Couvertures/9782081518438.jpg"
+    },
+    {
+        "title": "La gloire de mon père",
+        "author": "Marcel Pagnol",
+        "description": "Un petit Marseillais d'il y a un siècle: l'école primaire ; le cocon familial ; les premières vacances dans les collines, à La Treille ; la première chasse avec son père...",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51U57hFIZgL._SX307_BO1,204,203,200_.jpg"
+    },
+    {
+        "title": "Le petit prince",
+        "author": "Antoine de st Exupery",
+        "description": "Il était une fois... un livre. Mais pas n'importe lequel. L'un des plus lus au monde : un conte qui a fait rêver et méditer, sourire et pleurer des millions d'enfants et de grandes personnes ; une fable dont l' onde bienfaisante , prolongée de génération engénération, continue d'apporter un peu de sagesse et de consolation à celles et ceux que la terre des hommes parfois inquiète. ",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/712VYewZbNL.jpg"
+    },
+    {
+        "title": "Changer l'eau des fleurs",
+        "author": "Valérie Perrin",
+        "description": "Violette Toussaint est garde-cimetière dans une petite ville de Bourgogne. Les gens de passage et les habitués viennent se confier et se réchauffer dans sa loge. Avec la petite équipe de fossoyeurs et le jeune curé, elle forme une famille décalée. Mais quels événements ont mené Violette dans cet univers où le tragique et le cocasse s’entremêlent ?",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81thvKHktJL.jpg"
+    }
+]
